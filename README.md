@@ -1,7 +1,7 @@
 # macOS-vpn-fix
 This guide will help you remove your current install of the VPN client and related files, which will prep your system for a new install.
 
-1. Use [this]() link to download a shell script that can automatically remove your current install of the VPN client. Use the terminal app to navigate to where the script is (`~/Downloads` is likely where your browser put it), then paste and enter this command:
+1. Use [this](https://github.com/ucsb/macOS-vpn-fix/releases/download/UninstallerScript/uninstall_vpn_client.sh) link to download a shell script that can automatically remove your current install of the VPN client. Use the terminal app to navigate to where the script is (`~/Downloads` is likely where your browser put it), then paste and enter this command:
 
     ```shell
     chmod +x ./uninstall_vpn_client.sh
