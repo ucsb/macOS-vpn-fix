@@ -7,7 +7,7 @@ This guide will help you remove your current install of the VPN client and relat
     chmod +x ./uninstall_vpn_client.sh
     ```
 
-    Then execute the script by pasting an entering this command:
+    Then execute the script by pasting and entering this command:
     ```shell
     ./uninstall_vpn_client.sh
     ```
